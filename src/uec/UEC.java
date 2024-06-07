@@ -8,7 +8,7 @@ package uec;
  *
  * @author Wuzuy
  */
-public class UEC {
+public class UEC {  
 
     /**
      * @param args the command line arguments
